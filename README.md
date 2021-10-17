@@ -7,3 +7,5 @@ css transform
 AddEventListener
 Arrow function
 Add ClassList in Js
+
+You can check this site on https://responsivesearchinput.netlify.app
